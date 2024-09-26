@@ -1,1 +1,3 @@
-# capstone2
+# Blog
+
+To run the app : npm app.js
